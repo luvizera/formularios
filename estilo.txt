@@ -1,0 +1,29 @@
+<style type="text/css">
+		body{
+			font-family: 'Roboto', sans-serif; margin: 0; padding: 0;
+		}
+		header{
+			background: url("Cabeçalho.png"); padding: 100px 150px; color: #fff; height: 250px; margin-bottom: 100px;
+		}
+		header h1{
+			text-align: center; line-height: 30px; margin: 60px 265px; font-size:70px;
+		}
+		header h1 span{
+			font-size: 20px;
+		}
+		main{
+			width: 960px; margin: auto;
+		}
+		table caption{
+			background: #000; color:#fff; text-align: left;	padding: 5px 10px;
+		}
+		table th, table td{
+			border:1px solid #ccc; padding: 5px 10px;
+		}
+		.meses{
+			background: rgb(0,112,192); color:#fff;
+		}
+		.somatotal{
+			background: rgb(0,176,80); color:#fff;
+		}
+	</style>
